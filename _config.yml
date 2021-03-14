@@ -3,4 +3,4 @@ logo: assets/img/logo.PNG
 description: github.io 技术网站
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
