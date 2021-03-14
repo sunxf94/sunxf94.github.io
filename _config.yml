@@ -1,6 +1,6 @@
-title: 孙雪峰的技术网站
+title: 孙雪峰的博客
 logo: assets/img/logo.PNG
-description: github.io 技术网站
-show_downloads: true
+description: 交流请留言 24小时内回复
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
