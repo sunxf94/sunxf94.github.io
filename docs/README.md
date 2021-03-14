@@ -1,10 +1,10 @@
 ---
 home: true
-heroImage: /assets/img/logo.png
-heroText: 早知如此
+<!-- heroImage: /assets/img/logo.png -->
+heroText: 龙江畔
 tagline: 交流请留言 24小时回复
 actionText: github →
-actionLink: github.com/sunxf94
+actionLink: https://github.com/sunxf94
 features:
 - title: 联系方式
   details: sunxf94@gmail.com
